@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chair2</folder>
+	<filename>IMG_3072.jpg</filename>
+	<path>D:\Documents\GitHub\qwe\chair2\IMG_3072.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chair2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>242</ymin>
+			<xmax>2107</xmax>
+			<ymax>3420</ymax>
+		</bndbox>
+	</object>
+</annotation>
