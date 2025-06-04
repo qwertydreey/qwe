@@ -1,0 +1,26 @@
+<annotation>
+	<folder>table1</folder>
+	<filename>IMG_3329.jpg</filename>
+	<path>C:\Users\julia_wqs94zn\OneDrive\Documents\GitHub\qwe\table1\IMG_3329.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>656</xmin>
+			<ymin>1299</ymin>
+			<xmax>2814</xmax>
+			<ymax>3999</ymax>
+		</bndbox>
+	</object>
+</annotation>
